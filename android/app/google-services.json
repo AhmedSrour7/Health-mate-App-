@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904445767717",
+    "project_id": "health-care-chat-7f677",
+    "storage_bucket": "health-care-chat-7f677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904445767717:android:4b3a133b592db514e58fcc",
+        "android_client_info": {
+          "package_name": "com.example.health_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCal1rZ7HVu3sa0L4jrCIXm5hUrGNp8POA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
