@@ -19,9 +19,6 @@ Health Mate is a healthcare mobile application designed to monitor and track pat
 - **Frameworks & Tools:** Flutter, Apache Spark, Airflow, Hadoop, Kafka
 - **DevOps & Platforms:** Linux, Docker, Kubernetes, VS Code
 
-## 📸 Screenshots
-![App Screenshot](https://via.placeholder.com/600x300?text=App+Screenshot+1)
-![App Screenshot](https://via.placeholder.com/600x300?text=App+Screenshot+2)
 
 ## 🔧 Installation & Setup
 ```bash
