@@ -16,14 +16,14 @@ Health Mate is a healthcare mobile application designed to monitor and track pat
 
 ## 🛠️ Tech Stack
 - **Programming Languages:** Dart, Python, SQL, Bash, C++
-- **Frameworks & Tools:** Flutter, Apache Spark, Airflow, Hadoop, Kafka
-- **DevOps & Platforms:** Linux, Docker, Kubernetes, VS Code
+- **Frameworks & Tools:** Flutter, .NET
+- **DevOps & Platforms:** VS Code,Postman
 
 
 ## 🔧 Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/wolverinee7/Health-mate-App.git
+git clone https://github.com/Ahmedsrour7/Health-mate-App.git
 
 # Navigate to the project directory
 cd Health-mate-App
